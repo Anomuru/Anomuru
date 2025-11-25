@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Anomuru
 
-<!--
-**Anomuru/Anomuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Problem Solver | Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm [краткое описание о себе]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Твоя любимая цитата про код или программирование"
+
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, Python, Java
+- **Frontend:** React, HTML/CSS
+- **Backend:** Node.js, Express
+- **Tools:** Git, VS Code, Docker
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=твой-username&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](твоя-ссылка)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](твоя-ссылка)
